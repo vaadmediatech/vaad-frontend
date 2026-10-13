@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/set-state-in-effect */
 // app/advertise/[mediaType]/in/[country]/[state]/page.tsx
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
